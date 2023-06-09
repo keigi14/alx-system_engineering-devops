@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -rwxr-x-wx  hello
+chomd 644 hello
