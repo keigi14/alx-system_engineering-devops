@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 # Displays "Best School" 10 times using a for loop.
 
+<<<<<<< HEAD
 for (( t=0; t<10; t++ )) 
+=======
+for (( i=0; i<10; i++ )) 
+>>>>>>> 6afa8ac406a5545ff29f45c052b597f688190076
 do
   echo "Best School"
 done
